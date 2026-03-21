@@ -18,15 +18,15 @@
   ## IMAGE OF WEBSITE 
   ## HOME PORTAL
    <img width="744" height="420" alt="image" src="https://github.com/user-attachments/assets/579efe32-d9c7-4101-a626-bf4952909680" />
-   ## Results Page – Evidence Sources
+  ## Results Page – Evidence Sources
    <img width="638" height="349" alt="image" src="https://github.com/user-attachments/assets/a6c8f09a-4889-418e-bca9-4059ac60ead2" />
-   ## Results Page – Verdict Section
+  ## Results Page – Verdict Section
    <img width="749" height="423" alt="image" src="https://github.com/user-attachments/assets/5cfe0fa0-a289-4aa7-aa2b-9dfa42eb0dc7" />
-   ## Archive Page
+  ## Archive Page
    <img width="766" height="419" alt="image" src="https://github.com/user-attachments/assets/5720389b-e6b6-4543-9ee6-523468ce67ec" />
-   ## Learning Page - Dashboard
+  ## Learning Page - Dashboard
    <img width="706" height="427" alt="image" src="https://github.com/user-attachments/assets/28acdc8a-e3a4-422f-945d-0a7d0ed7658a" />
-   ## Authority Access - Dashboard
+  ## Authority Access - Dashboard
    <img width="764" height="374" alt="image" src="https://github.com/user-attachments/assets/ab579bcb-af5c-406e-80b5-5ea19f4c1e5e" />
 
 
